@@ -1,0 +1,33 @@
+.card
+{
+	margin-bottom: 20px;
+	margin-right:25px;
+	width: 440px;
+	height: 650px;
+	text-align: center;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4), 0 12px 40px 0 rgba(0, 0, 0, 0.38);
+	background-color: #669999;
+	border-radius: 10px;
+	word-wrap: break-word;
+
+}
+
+img
+{
+width: 200px;
+border: solid;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+
+	font-size: 0.9em;
+}
+h2{
+	font-size: 2em;
+	text-decoration: underline;
+}
+a{
+	color:black;
+   text-decoration: none; 
+   background-color: none;
+}
